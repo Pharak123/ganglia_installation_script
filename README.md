@@ -1,0 +1,1 @@
+# ganglia_installation_script
